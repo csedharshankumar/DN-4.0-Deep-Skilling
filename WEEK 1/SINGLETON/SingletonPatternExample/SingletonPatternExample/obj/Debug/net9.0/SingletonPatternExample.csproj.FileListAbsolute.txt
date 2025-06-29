@@ -1,0 +1,14 @@
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfo.cs
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.exe
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.deps.json
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.runtimeconfig.json
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.dll
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.pdb
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.dll
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\obj\Debug\net9.0\refint\SingletonPatternExample.dll
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.pdb
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
+C:\6289982\WEEK 1\SINGLETON\SingletonPatternExample\SingletonPatternExample\obj\Debug\net9.0\ref\SingletonPatternExample.dll
