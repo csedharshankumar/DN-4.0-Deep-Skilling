@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Dp/a3UGIl0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_ASP.NET Core 8.0 Web API\\Code\\KafkaChatApp\\KafkaChatApp\\KafkaChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kirub\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\kirub\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512",
+    "C:\\Users\\kirub\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\8.0.18\\microsoft.netcore.app.host.win-x86.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

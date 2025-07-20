@@ -1,0 +1,88 @@
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.csproj.AssemblyReference.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\appsettings.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.staticwebassets.endpoints.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\scopedcss\bundle\JwtAuthApi.styles.css
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.csproj.Up2Date
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\refint\JwtAuthApi.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_ASP.NET Core 8.0 Web API\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\ref\JwtAuthApi.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.staticwebassets.endpoints.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\appsettings.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\JwtAuthApi.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.csproj.AssemblyReference.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\scopedcss\bundle\JwtAuthApi.styles.css
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.csproj.Up2Date
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\refint\JwtAuthApi.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\JwtAuthApi.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 5_1. Microservices-JWT\Code\JwtAuthApi\JwtAuthApi\obj\Debug\net8.0\ref\JwtAuthApi.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_ASP.NET Core 8.0 Web API\\Code\\KafkaChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{337520F5-C102-434A-8468-810A510E832E}|KafkaChatApp\\KafkaChatApp.csproj|c:\\users\\kirub\\desktop\\digital-nurture-4.0-samuel-kiruba\\week 5_asp.net core 8.0 web api\\code\\kafkachatapp\\kafkachatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{337520F5-C102-434A-8468-810A510E832E}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337520F5-C102-434A-8468-810A510E832E}|KafkaChatApp\\KafkaChatApp.csproj|c:\\users\\kirub\\desktop\\digital-nurture-4.0-samuel-kiruba\\week 5_asp.net core 8.0 web api\\code\\kafkachatapp\\kafkachatapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337520F5-C102-434A-8468-810A510E832E}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337520F5-C102-434A-8468-810A510E832E}|KafkaChatApp\\KafkaChatApp.csproj|c:\\users\\kirub\\desktop\\digital-nurture-4.0-samuel-kiruba\\week 5_asp.net core 8.0 web api\\code\\kafkachatapp\\kafkachatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337520F5-C102-434A-8468-810A510E832E}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_ASP.NET Core 8.0 Web API\\Code\\KafkaChatApp\\KafkaChatApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_ASP.NET Core 8.0 Web API\\Code\\KafkaChatApp\\KafkaChatApp\\Form1.cs",
+              "RelativeToolTip": "KafkaChatApp\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:03:58.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_ASP.NET Core 8.0 Web API\\Code\\KafkaChatApp\\KafkaChatApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_ASP.NET Core 8.0 Web API\\Code\\KafkaChatApp\\KafkaChatApp\\Form1.Designer.cs",
+              "RelativeToolTip": "KafkaChatApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:01:47.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_ASP.NET Core 8.0 Web API\\Code\\KafkaChatApp\\KafkaChatApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_ASP.NET Core 8.0 Web API\\Code\\KafkaChatApp\\KafkaChatApp\\Form1.cs [Design]",
+              "RelativeToolTip": "KafkaChatApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:57:22.139Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

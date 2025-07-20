@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_1. Microservices-JWT\\Code\\JwtAuthApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4802C3-1905-4269-839C-D46C8C39BE90}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kirub\\desktop\\digital-nurture-4.0-samuel-kiruba\\week 5_1. microservices-jwt\\code\\jwtauthapi\\jwtauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED4802C3-1905-4269-839C-D46C8C39BE90}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4802C3-1905-4269-839C-D46C8C39BE90}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kirub\\desktop\\digital-nurture-4.0-samuel-kiruba\\week 5_1. microservices-jwt\\code\\jwtauthapi\\jwtauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4802C3-1905-4269-839C-D46C8C39BE90}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4802C3-1905-4269-839C-D46C8C39BE90}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kirub\\desktop\\digital-nurture-4.0-samuel-kiruba\\week 5_1. microservices-jwt\\code\\jwtauthapi\\jwtauthapi\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4802C3-1905-4269-839C-D46C8C39BE90}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4802C3-1905-4269-839C-D46C8C39BE90}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kirub\\desktop\\digital-nurture-4.0-samuel-kiruba\\week 5_1. microservices-jwt\\code\\jwtauthapi\\jwtauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4802C3-1905-4269-839C-D46C8C39BE90}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_1. Microservices-JWT\\Code\\JwtAuthApi\\JwtAuthApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_1. Microservices-JWT\\Code\\JwtAuthApi\\JwtAuthApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:44:37.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_1. Microservices-JWT\\Code\\JwtAuthApi\\JwtAuthApi\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JwtAuthApi\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_1. Microservices-JWT\\Code\\JwtAuthApi\\JwtAuthApi\\LoginModel.cs",
+              "RelativeToolTip": "JwtAuthApi\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:44:07.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_1. Microservices-JWT\\Code\\JwtAuthApi\\JwtAuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_1. Microservices-JWT\\Code\\JwtAuthApi\\JwtAuthApi\\Program.cs",
+              "RelativeToolTip": "JwtAuthApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:31:56.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_1. Microservices-JWT\\Code\\JwtAuthApi\\JwtAuthApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtAuthApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 5_1. Microservices-JWT\\Code\\JwtAuthApi\\JwtAuthApi\\appsettings.json",
+              "RelativeToolTip": "JwtAuthApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T11:30:45.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
